@@ -103,4 +103,7 @@
     <orderEntry type="library" name="Maven: org.jodd:jodd-bean:5.0.13" level="project" />
     <orderEntry type="library" name="Maven: org.jodd:jodd-core:5.0.13" level="project" />
   </component>
+  <component name="SonarLintModuleSettings">
+    <option name="uniqueId" value="9b5bad85-9c92-4cd5-8335-6895037e761c" />
+  </component>
 </module>
